@@ -5,7 +5,7 @@ function App() {
   axios.defaults.withCredentials = true;  //used for setting cookies for api
 
   return (
-      <Register/>
+      <Register/> 
       
     
   )
